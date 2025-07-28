@@ -1,0 +1,17 @@
+# PDF parsing
+PyMuPDF==1.22.5
+
+# Numerical operations
+numpy==1.24.2
+
+# Progress bars
+tqdm==4.65.0
+
+# Hugging Face tokenizer runtime
+tokenizers==0.13.3
+
+# ONNX inference
+onnxruntime==1.17.1
+
+# (Optional download helper; safe offline if you omit download_model())
+huggingface-hub==0.14.1
